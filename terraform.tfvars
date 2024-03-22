@@ -2,7 +2,7 @@
 region = "ap-south-1"
 
 #VPC
-vpc_name = "my-vpc-terraform"
+vpc_name = "my-vpc"
 vpc_cidr_block = "10.0.0.0/26"
 public-subnet-1a-cidr = "10.0.0.0/28"
 public-subnet-2b-cidr = "10.0.0.16/28"
